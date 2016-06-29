@@ -1,6 +1,20 @@
-# Maya 
+# Maya
 
 _Course lesson plan by : Varshini Ramaraj and Sai Uthej Valiveru_
+
+## Download link
+http://www.autodesk.com/education/free-software/maya
+
+## System Requirements
+Software | Details
+-- | --
+Operating System | Microsoft® Windows® 10 Professional, Windows® 8.1 Professional, and Windows® 7 (SP1) operating system; Apple® Mac OS® X 10.9.5, 10.10.x, and 10.11.3 operating systems; Red Hat® Enterprise Linux® 6.5 WS operating system; CentOS 6.5 Linux operating system
+Browser | Autodesk recommends the latest version of the following web browsers for access to online supplemental content: Apple® Safari® web browser; Google Chrome™ web browser; Microsoft® Internet Explorer® web browser; Mozilla® Firefox® web browser
+Hardware | CPU 64-bit Intel® or AMD® multi-core processor;
+Graphics Hardware   | Refer to the Maya Certified Hardware page for a detailed list of recommended systems and graphics cards
+RAM | 4 GB of RAM (8GB recommended)
+Disk Space  | 4 GB of free disk space for install
+Pointing Device | Three-button mouse
 
 ## Day 1:
 * Introduction + Basics
@@ -51,7 +65,7 @@ _Course lesson plan by : Varshini Ramaraj and Sai Uthej Valiveru_
 ## Day 3:
  Dominoes falling: https://www.youtube.com/watch?v=-KZGAC19nHU at 4:42 for inspiration
 
-## Day 4: 
+## Day 4:
 Bouncing ball down stairs: https://www.youtube.com/watch?v=u-i1MDdNbkM
 
 ## Day 4:
@@ -61,6 +75,6 @@ Arrow animation: https://www.youtube.com/watch?v=aOvTSUB6rwU
  Maze animation: https://www.youtube.com/watch?v=NMcHmfRAlxg
 
 ## Day 4 and 5:
- Character rigs: 
- * http://www.cgmeetup.net/home/minion-rig-maya-rigs-maya-character-rigs-free-maya- rigs/ 
- * http://www.cgmeetup.net/forums/files/file/102-cody-rig-by-ahmed-elmatarawi/
+ Character rigs:
+ * http://www.cgmeetup.net/home/minion-rig-maya-rigs-maya-character-rigs-free-maya- rigs/
+ * http://www.cgmeetup.net/forums/files/file/102-cody-rig-by-ahmed-elmatarawi
