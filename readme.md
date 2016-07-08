@@ -57,7 +57,7 @@ Pointing Device | Three-button mouse
  Tutorial on basics: https://www.youtube.com/watch?v=tElsku3aKQI&amp;feature=youtu.be
 
 ## Day 2:
- Key frame animation: 1 st part in this - http://www.3dtutorialzone.com/tutorial?id=96
+ Key frame animation: 1st part in this - http://www.3dtutorialzone.com/tutorial?id=96
 
 ## Day 3:
  Extrude and Bevel: https://www.youtube.com/watch?v=lMvcn2kdlpo
