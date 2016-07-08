@@ -63,7 +63,7 @@ Pointing Device | Three-button mouse
  Extrude and Bevel: https://www.youtube.com/watch?v=lMvcn2kdlpo
 
 ## Day 3:
- Dominoes falling: https://www.youtube.com/watch?v=-KZGAC19nHU at 4:42 for inspiration
+ Dominoes falling: https://youtu.be/-KZGAC19nHU?t=4m42s for inspiration
 
 ## Day 4:
 Bouncing ball down stairs: https://www.youtube.com/watch?v=u-i1MDdNbkM
